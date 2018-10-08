@@ -1,0 +1,21 @@
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+/dist
+/public/*
+
+# misc
+.DS_Store
+
+npm-debug.log*
+
+.idea/
+
+*.sublime-project
+*.sublime-workspace
